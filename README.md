@@ -77,8 +77,7 @@ $phar->setStub($phar->createDefaultStub('index.php'));
 ```
 会生成如下：
 
-![image]
-(https://raw.githubusercontent.com/yeevan/phar/master/WX20190111-111644.png)
+![image](https://raw.githubusercontent.com/yeevan/phar/master/WX20190111-111644.png)
 
 
 
